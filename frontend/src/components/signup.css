@@ -1,0 +1,23 @@
+.center{
+    margin: 0 auto;
+}
+
+.rowcenter{
+   margin: 50px;
+}
+
+.singupCenter{
+    width: 100%;
+    padding: 5px;
+    margin-left: 50%;
+}
+
+.alreadyAccount{
+    font-size: medium;
+    cursor: pointer;
+    text-align-last: center;
+}
+
+form {
+    margin-top: 10px;
+}
